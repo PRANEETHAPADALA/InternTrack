@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+.env
+dist/
+*.log
+
+# React (frontend)
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+frontend/src/**/*.css.map
+
+# Java (backend if using)
+target/
+.gradle/
+build/
+*.class
+*.jar
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
