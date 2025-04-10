@@ -205,7 +205,9 @@ To use a different Google Drive folder:
 
 ## 📝 Contributors
 
-- [Your Name]
+- Oviasree Sampath
+- Prathiyangira Devi V C
+- Padala Praneetha
 
 ## 📄 License
 
